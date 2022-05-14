@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986806634996",
+    "project_id": "work-management-os-app",
+    "storage_bucket": "work-management-os-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986806634996:android:803aa8cc730d8fc58f51a1",
+        "android_client_info": {
+          "package_name": "com.example.work_os_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986806634996-8dp5ge7jb5h1qh05o9mebd1p9v2fu0hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.work_os_app",
+            "certificate_hash": "80c24eac30db67dfc35e9f7f8eb81f8cdaafafc3"
+          }
+        },
+        {
+          "client_id": "986806634996-sdrb4dm8n14931sebvkrrot79lbmk1t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTLaIBjFqdDUm1BOmuCRF-kMNTILwv_I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986806634996-sdrb4dm8n14931sebvkrrot79lbmk1t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
